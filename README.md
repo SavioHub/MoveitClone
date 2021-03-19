@@ -19,5 +19,5 @@
 <a href="https://www.linkedin.com/in/savio-santos-147b0018a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="savio" height="20" width="20" /></a>
 <a href="https://instagram.com/stories/savio_santos_19/2531469881082485691?igshid=1j5ek4minbjgw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="savio" height="20" width="20" /></a>
 <a href="https://msng.link/o/?+5538998929954=tg" target="blank"><img align="center" src="https://www.pngrepo.com/png/204357/180/telegram.png" alt="savio" height="20" width="20" /></a>
-<a href="https://api.whatsapp.com/send?phone=5538998929954" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-whatsapp-1.png" alt="savio" height="20" width="20" /></a>
+<a href="https://api.whatsapp.com/send?phone=5538998929954" target="blank"><img align="center" src="https://toppng.com/public/uploads/preview/whatsapp-svg-png-icon-free-download-whatsapp-logo-vector-black-11562868892nb2zdc2lyp.png" alt="savio" height="20" width="20" /></a>
 </p>
