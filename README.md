@@ -5,6 +5,7 @@
 - 💻 Study language: **JavaScript, HTML, CSS**
 - 📫 E-mail: **saviosantossilva19@gmail.com**
 - 📞 WhatsApp: https://api.whatsapp.com/send?phone=5538998929954
+- 📞 Telegram: https://msng.link/o/?+5538998929954=tg
 
 
 <div align="left">
@@ -18,6 +19,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/savio-santos-147b0018a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="savio" height="20" width="20" /></a>
 <a href="https://instagram.com/stories/savio_santos_19/2531469881082485691?igshid=1j5ek4minbjgw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="savio" height="20" width="20" /></a>
-
-<a href="https://msng.link/o/?+5538998929954=tg" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ficones-gratis%2Flogo-telegram_810904.htm&psig=AOvVaw1Ua7lvE0dN9ZhbJVt4osTN&ust=1616204492850000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPD0wY2du-8CFQAAAAAdAAAAABAD" alt="savio" height="20" width="20" /></a>
+<a href="https://msng.link/o/?+5538998929954=tg" target="blank"><img align="center" src="https://www.pngrepo.com/png/204357/180/telegram.png" alt="savio" height="20" width="20" /></a>
 </p>
