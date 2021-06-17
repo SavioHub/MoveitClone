@@ -1,6 +1,6 @@
 # Presentation
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'am, Sávio Santos</h1>
-<h3 align="center">I'am a web and mobile developer.</h3>
+<h3 align="center">I'am a developer front-end.</h3>
 
 - 💻 Study language: **JavaScript, HTML, CSS**
 
